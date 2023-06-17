@@ -1,0 +1,20 @@
+http://serabd.xyz/doctorfinder/index.php
+admin : admin
+password : 123
+res->values->strings->strings.xml-> link and link1 
+ <string name="link" translatable="false">http://serabd.xyz/doctorfinder/Apicontrollers/</string>
+         <string name="link1" translatable="false">http://serabd.xyz/doctorfinder/</string>
+
+
+https://www.000webhost.com/?fbclid=IwAR3pRS9DUr9Kh_P5zxFepfprDL12vF92AgRiWeEAgOsNppii2aZC2QE0vt4
+free trail->sign up->manage website(pic er vitore)->
+dashboard->file->file manager->upload file->public_html->click upload->insert PHPScript.zip and .htaccess file
+email:amar
+password:amar
+username:fornical-clock
+
+database name: DoctorFinder
+database username: Doctor_Finder
+password:E}4SrL1?3eg1u[E~
+
+fornical-clock.000webhostapp.com

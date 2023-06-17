@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="doctor finder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DoctorFinder.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PHPScript.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
